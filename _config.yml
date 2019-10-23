@@ -296,6 +296,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.3"
+        overlay_image: /assets/images/ryan-hutton-Jztmx9yqjBw-unsplash.jpg
+        caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
       read_time: true
       comments: true
       share: true
