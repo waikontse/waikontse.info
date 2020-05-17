@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Wai kon Tse"
-  avatar           : "/assets/images/bio-pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-pic.png"
   bio              : "Pragmatic software craftsman"
   location         : "The Netherlands"
   email            : "waikon at waikontse dot info"
